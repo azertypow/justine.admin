@@ -1,0 +1,63 @@
+blueprint: page
+
+title: About
+
+icon: ☎️
+
+options:
+  changeSlug: false
+  delete: false
+  changeTitle: true
+  sort: false
+  changeStatus: false
+  duplicate: false
+
+tabs:
+  content:
+    icon: text
+    label: À Propos
+    fields:
+      textAbout:
+        type: blocks
+        fieldsets:
+          - image
+          - text
+          - type: heading
+            extends: blocks/heading
+            fields:
+              level:
+                options:
+                  - h2
+                  - h3
+  contact:
+    icon: map
+    label: Contact
+    fields:
+      textContact:
+        label: Texte
+        type: writer
+        marks:
+          - bold
+          - italic
+          - link
+        headings:
+          - 2
+          - 3
+      mapImage:
+        type: files
+        required: false
+        label: Image de la map
+        extends: fields/imageOnlyOne
+        layout: cards
+        image:
+          cover: false
+          back: white
+      mapLien:
+        type: url
+        required: false
+        label: Lien dans google maps
+        extends: fields/imageOnlyOne
+        layout: cards
+        image:
+          cover: false
+          back: white
