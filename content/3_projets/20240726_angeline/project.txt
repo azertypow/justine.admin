@@ -1,0 +1,49 @@
+Title: Angeline
+
+----
+
+Subtitle: Cie Théatre EnQuete
+
+----
+
+Arrayofimagescarousel: 
+
+----
+
+Introduction: <p>Débuté en 2018 avec comme point de départ des interrogations sur le monde de la prostitution, Angelina est une pièce de théâtre sur le stigmate de putain, montée à partir d’une écriture originale, créée sur base d’une enquête, de témoignages, et d’une recherche personnelle.</p><p>Tressant une narration avec du matériaux documentaire, le spectacle s'articule autour d'une trame dans laquelle interviennent régulièrement des témoignages audio de travailleuses du sexe, provenant de diverses sources : des documentaires, des émissions radios, ou des interviews.</p>
+
+----
+
+Htmlcontent: [{"content":{"level":"h2","text":"Synopsis"},"id":"968ace86-5fb1-4e22-b1ab-d9e1839fdf9c","isHidden":false,"type":"heading"},{"content":{"text":"<p>Dans l’intimité des loges d’un théâtre, une comédienne se prépare pour la répétition.</p><p>Elle met son costume de scène : un joli petit haut, une minijupe, des talons et se regarde dans le miroir : « Mais qui a inventé ces codes de merde ? »</p><p>Deuxième création de la compagnie, Angelina s’interroge sur la place symbolique de la figure de la prostituée : à la fois invisibilisée et présente partout. Dans le langage, d’abord, puis comme figure de référence ambiguë, parfois positive, parfois négative, mais nous laissant rarement indifférent.e.s.</p><p>Angelina met en scène une recherche, la tentative d’une rencontre avec le milieu des travailleuses du sexe, mais surtout l’envie de s’interroger sur la complexité de nos rapports à la sexualité, au travail, à l’argent, aux rapports de pouvoirs, à la liberté.</p><p>De quoi cette figure de la prostituée est-elle l’expression ? Qu’est-ce qu’elle nous pousse à faire ? A ne pas faire ?</p><p>Entre travail documentaire et narration, ce solo nous invite à entrer dans des zones ambigües, où désirs, fantasmes, et aspirations se confrontent avec la volonté de maitrise de sa propre image.</p>"},"id":"ca7ed7a0-2c25-4a21-b9d6-7dc20408d58e","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Crédits"},"id":"abf184b3-c495-40e0-93c7-5cc9a1b6336d","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Écriture, direction artistique et jeu:</strong> Justine Ruchat</p><p><strong>Collaboration artistique:</strong> Koen Augustijnen</p><p><strong>Direction technique et collaboration artistique:</strong> Hèctor Salvador Vicente</p><p><strong>Scénographie:</strong> Camille Lacroix</p><p><strong>Construction:</strong> Mansour Walter, Malik Ramallo, Philippe Lacroix</p><p><strong>Costumes:</strong> Patty Eggerickx</p><p><strong>Réalisation costumes:</strong> Sarah Duvert</p><p><strong>Création sonore:</strong> Sylvain Fournier</p><p><strong>Création lumière:</strong> Francesco dell'Elba</p><p><strong>Production déléguée:</strong> Laure Chapel, Pâquis Production</p><p><strong>Production:</strong> Théâtre EnQuête</p><p><strong>Résidences de création:</strong> Projet H107, Hybrid Studios (Bruxelles)</p><p><strong>Soutiens:</strong> Ville de Genève, Loterie Romande, Fondation Ernst Göhner, Fondation Emilie Gourd, ville de Lancy, commune de Choulex, FEEIG, Noumeno Asbl (Bruxelles)</p><p>La pièce a reçu le prix Théâtre de la Société Genevoise des Ecrivains en 2021</p>"},"id":"c47c9405-ae75-492e-bdc0-76379537d0da","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://U2v5H2XILu4EyBOa"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"true"},"id":"94288ae3-1f0b-4303-869c-33b350a1a406","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Comment tu me vois"},"id":"c9228410-bff9-4e65-848f-8b8846ddd75d","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Evénement en parallèle de la création"},"id":"ffed55cc-508b-49d7-8a96-4145714ae245","isHidden":false,"type":"heading"},{"content":{"text":"<p>L’exposition Comment tu me vois, en partenariat avec l’association Aspasie, sur les murs des Bains Des Pâquis.</p><p>Photographies: Eric Roset, David Parel et Eva-luna Perez.</p><p>Une table ronde en collaboration avec l’association Aspasie à l’issue d’une représentation.</p><p>Intervenantes: Justine Ruchat, Piti Pietru, Judith Fiss, Pénélope Giacardi,</p><p>Modératrice: Charlotte Frossard</p>"},"id":"9c0f6e4b-b643-4aa6-9393-ec330c566898","isHidden":false,"type":"text"}]
+
+----
+
+Galleryproject: 
+
+----
+
+Date: 
+
+----
+
+Tags: page://qxf5iv962fa0Ps6q, page://kJMSEG406sLzRD6q
+
+----
+
+Listofdetails: 
+
+----
+
+Imagecover: 
+
+----
+
+Imagecoverforindex: 
+
+----
+
+Selfinitiated: false
+
+----
+
+Uuid: gzadscSFdV8nBY4t
