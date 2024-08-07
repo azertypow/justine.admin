@@ -47,7 +47,7 @@ tabs:
         type: files
         required: false
         label: Image de la map
-        extends: fields/imageOnlyOne
+        extends: files/imageOnlyOne
         layout: cards
         image:
           cover: false
@@ -56,7 +56,6 @@ tabs:
         type: url
         required: false
         label: Lien dans google maps
-        extends: fields/imageOnlyOne
         layout: cards
         image:
           cover: false
