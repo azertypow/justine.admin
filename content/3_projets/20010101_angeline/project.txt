@@ -18,7 +18,7 @@ Htmlcontent: [{"content":{"level":"h2","text":"Synopsis"},"id":"968ace86-5fb1-4e
 
 ----
 
-Galleryproject: 
+Galleryproject:
 
 ----
 
@@ -34,15 +34,15 @@ Arrayofimagescarousel: - file://U2v5H2XILu4EyBOa
 
 ----
 
-Listofdetails: 
+Listofdetails:
 
 ----
 
-Imagecover: 
+Imagecover:
 
 ----
 
-Imagecoverforindex: 
+Imagecoverforindex:
 
 ----
 
