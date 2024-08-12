@@ -1,0 +1,21 @@
+blueprint: page
+
+name: field.blocks.image.name
+icon: image
+preview: image
+fields:
+  image:
+    label: field.blocks.image.name
+    type: files
+    template: blocks/image
+    query: model.images
+    multiple: false
+    uploads:
+      template: blocks/image
+  isFullWidth:
+    label: Largeur
+    help: Largeur de la photo dans la page
+    type: toggle
+    text:
+      - regular
+      - large

@@ -19,12 +19,27 @@ return [
         [
             'pattern' => '/site-info',
             'action' => function() {
+                include_once 'site/templates/getSiteInfo.php';
+
                 header("Access-Control-Allow-Origin: *");
-                return new Page([
-                    'slug'      => 'projects',
-                    'template'  => 'site-info',
-                ]);
+
+                return \Kirby\Cms\Response::json(
+                    getSiteInfo(kirby(), site())
+                );
+            }
+        ],
+        [
+            'pattern' => '/project-by-slug/(:any)',
+            'action' => function($pageSlug) {
+                include_once 'site/templates/getProjectByUid.php';
+
+                header("Access-Control-Allow-Origin: *");
+
+                return \Kirby\Cms\Response::json(
+                    getProjectBySlug($pageSlug, kirby(), site())
+                );
             }
         ]
+
     ]
 ];
