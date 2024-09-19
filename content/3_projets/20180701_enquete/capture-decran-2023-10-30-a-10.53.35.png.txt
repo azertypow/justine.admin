@@ -1,0 +1,9 @@
+Showtitle: false
+
+----
+
+Uuid: SXoXgbw0TDYIpKU3
+
+----
+
+Template: blocks/image

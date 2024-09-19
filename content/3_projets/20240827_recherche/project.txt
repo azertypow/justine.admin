@@ -1,0 +1,33 @@
+Title: Recherche
+
+----
+
+Subtitle: Ceci est un projet de recherche
+
+----
+
+Cover: - file://3MQIaNF5oqIjL5fK
+
+----
+
+Introduction: 
+
+----
+
+Htmlcontent: 
+
+----
+
+Galleryproject: 
+
+----
+
+Date: 2024-08-27
+
+----
+
+Tags: page://kJMSEG406sLzRD6q
+
+----
+
+Uuid: N90xuVwKgED8Ec0s

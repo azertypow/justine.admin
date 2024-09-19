@@ -1,0 +1,21 @@
+Title: hello
+
+----
+
+Alt: 
+
+----
+
+Textcolor: white
+
+----
+
+Showtitle: false
+
+----
+
+Uuid: 9zdoxNB4nblmV83A
+
+----
+
+Template: blocks/image

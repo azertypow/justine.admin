@@ -1,0 +1,21 @@
+Title: ©Isabell Meister
+
+----
+
+Alt: 
+
+----
+
+Textcolor: white
+
+----
+
+Showtitle: false
+
+----
+
+Uuid: I6tKl24QxZMqdyYt
+
+----
+
+Template: blocks/image

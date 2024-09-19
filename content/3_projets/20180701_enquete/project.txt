@@ -1,0 +1,37 @@
+Title: EnQuête
+
+----
+
+Subtitle: Théâtre EnQuête
+
+----
+
+Cover: - file://jS34UkUOGvXqb4Z2
+
+----
+
+Introduction: <p>EnQuête est le premier texte théâtral de Justine Ruchat.</p><p>Basée sur des faits réels, la pièce s’axe sur une figure charismatique suisse des années 70, pour tenter de décortiquer les mécanismes d’emprise et les méandres de la manipulation mentale. Une plongée dans des théories alimentaires, la révolution sexuelle, l'instinct, des procès…</p><p>La pièce fait s’entrelacer deux lignes d’écriture : une part historique, documentaire, construite sur base de coupures de presses et de témoignages et une part plus fictionnelle inspirée, elle aussi, de la réelle enquête effectuée.</p>
+
+----
+
+Htmlcontent: [{"content":{"level":"h3","text":"Synopsis"},"id":"0c0aaf28-883b-439c-beb5-3a23ea7628d7","isHidden":false,"type":"heading"},{"content":{"text":"<p><em>Elle </em>vit dans un environnement familial chaotique, aux relations brisées. Et pourtant aucune raison ne semble être la cause de ces troubles. De nombreuses années s’écoulent dans l’absence de communication, lorsque soudain le nom d'un homme refait surface. Elle s'en empare et décide alors de partir sur ses traces, espérant remonter à l'origine des fractures. Malgré la peur et la violence, le besoin de savoir la pousse à se confronter à ce dont personne ne veut parler ni entendre parler. Pas même elle.</p>"},"id":"edbbd7e9-4da5-4784-a82e-c3c8e0aa9854","isHidden":false,"type":"text"},{"content":{"image":["file://I6tKl24QxZMqdyYt"],"isfullwidth":"false"},"id":"7e131511-5b70-44bc-8f75-fb19f0719eea","isHidden":false,"type":"image"},{"content":{"image":["file://FrjqoPuBLvYAktoZ"],"isfullwidth":"false"},"id":"aced0cc5-5614-4c89-8aec-7296d1854321","isHidden":false,"type":"image"},{"content":{"image":["file://oCJpN7hKw9PrAMPk"],"isfullwidth":"false"},"id":"0b5032c4-1d98-468e-998f-a61e3b9af1ff","isHidden":false,"type":"image"},{"content":{"level":"h3","text":"Distribution et soutiens"},"id":"8c24c0dc-79c4-4ebd-918a-863736337d94","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Co-mise en scène et texte</strong>: Justine Ruchat</p><p><strong>Co-mise en scène</strong>: Hèctor Salvador Vicente</p><p><strong>Jeu</strong> : Justine Ruchat, Mathilde Cloux</p><p><strong>Musique</strong>: Ernesto Morales</p><p><strong>Video</strong>: Camille Lacroix</p><p><strong>Costumes</strong>: Veronica Segovia, Marion Schmid</p><p><strong>Création Lumières</strong>: Francesco Dell'Elba</p><p><strong>Coach</strong>: Koen Augustijnen</p><p><strong>Production</strong>: Théâtre EnQuête</p><p><strong>Coproduction</strong>: La Bâtie</p><p>Soutiens : Ville de Genève, Ville de Lancy, Commune d'Anières, Commune de Choulex, PREMIO, Fondation Engelberts, Fondation Nestlé pour l'art, Fondation SIS, Fondation Jürg George Burki, théâtre du Loup, théâtre du Galpon</p>"},"id":"6d4133ec-1c7c-4060-bc97-fad1f998eb87","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Presse"},"id":"a0109f0e-e2c9-43a8-89cc-26ed347d2884","isHidden":false,"type":"heading"},{"content":{"image":["file://I6tKl24QxZMqdyYt"],"isfullwidth":"true"},"id":"1e036ed4-51ef-4786-9d4b-8cc5e85add15","isHidden":false,"type":"image"},{"content":{"level":"h2","text":"Recherche"},"id":"4929fb10-9244-42a4-b123-d22ef020b3fb","isHidden":false,"type":"heading"},{"content":{"text":"<p>Deux ans de recherche ont été nécessaires à l'écriture et au montage de cette pièce, deux ans au cours desquels ont étés récoltées images, notes, textes et coupures de presse. Voici un petit aperçu de cette enquête artistique.</p>"},"id":"843fece6-d1d0-42ed-8737-565ef8565e0b","isHidden":false,"type":"text"},{"content":{"image":["file://3ogi5PgVsPnsy3bm"],"isfullwidth":"false"},"id":"3b20cdb2-51f4-4522-b93e-f7102aa788b5","isHidden":false,"type":"image"},{"content":{"image":["file://VtVcVsMwuVYiU207"],"isfullwidth":"false"},"id":"2328158e-3b61-4a6b-9e04-245bb71568e7","isHidden":false,"type":"image"},{"content":{"image":["file://SXoXgbw0TDYIpKU3"],"isfullwidth":"false"},"id":"c46cfe24-33f1-4ed0-ba72-60c7b394f747","isHidden":false,"type":"image"},{"content":{"image":["file://IGv61f9wJVgbozeZ"],"isfullwidth":"false"},"id":"76f7781a-ed9a-4425-913b-571d7f9d40c5","isHidden":false,"type":"image"},{"content":{"level":"h3","text":"16 juin 2017 - Cahier de notes"},"id":"75e3c37f-14d2-4b1c-86dd-eb414835a85f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Qu’est-ce qu’on fait des interdictions ?</p><p>Qu’est-ce qu’on fait des tabous ?</p><p>C’est quoi une société sans tabous ?</p><p>Est-ce que c’est possible ?</p><p>C’est quoi le rôle de la morale ?</p><p>Est-ce qu'on a chacun notre propre morale ?</p><p>Est-ce qu’on peut vivre ensemble si chacun a sa propre morale ?</p>"},"id":"8580cb31-1838-4308-8c15-f5f015245f13","isHidden":false,"type":"text"},{"content":{"image":["file://z4ECEMnWtAYiwFjX"],"isfullwidth":"false"},"id":"2368e6ef-cf1e-4cec-a1af-44859ff18f1f","isHidden":false,"type":"image"},{"content":{"image":["file://Zl60ojDnV9dVg9Ni"],"isfullwidth":"true"},"id":"2d27b4b9-8c2e-4408-b488-b73898a8414d","isHidden":false,"type":"image"}]
+
+----
+
+Galleryproject: 
+
+----
+
+Date: 2018-07-01
+
+----
+
+Tags: page://rNSaPRN92bJYZ6TZ
+
+----
+
+Arrayofimagescarousel: 
+
+----
+
+Uuid: XvIBBQwbOfw0W4sy

@@ -1,0 +1,33 @@
+Title: Hérodiasse
+
+----
+
+Subtitle: Studio d'Action Théâtrale
+
+----
+
+Cover: - file://PVJJaRpViQ57Bd7F
+
+----
+
+Introduction: <p>Monologue au langage explosif, ce poème dramatique en vers libre crache avec humour la colère d’une reine contre une tête coupée.</p>
+
+----
+
+Htmlcontent: [{"content":{"text":"<p><em>Jokanslahann ! Slanjokahann !</em></p><p><em>Dois-je t’app’ler</em></p><p><em>En me trompant ainsi</em></p><p><em>Ou bien, voilà, seul’ment</em></p><p><em>Ett directement :</em></p><p><em>Jean</em></p><p><em>Oh mon pauvre enfant !</em></p>"},"id":"d72b7b41-048f-47d6-9fc8-2e9ec58e20dc","isHidden":false,"type":"text"},{"content":{"image":["file://9Rm12zMWbRqBiuAQ"],"isfullwidth":"false"},"id":"d1c07067-9bdd-4ccb-86e4-b52bd9cff9e7","isHidden":false,"type":"image"},{"content":{"level":"h3","text":"Crédits"},"id":"c12c95d0-4b15-4588-9060-15e81a96fe52","isHidden":false,"type":"heading"},{"content":{"text":"<p>Direction artistique – <strong>Gabriel Alvarez</strong> </p><p>Jeu – <strong>Justine Ruchat</strong> </p><p>Lumières – <strong>SAT,</strong> en collaboration avec <strong>Renato Campora</strong></p><p>Costumes et intervention plastique – <strong>Camille Lacroix</strong> </p><p>Scénographie – <strong>Alex Gerenton</strong> </p><p>Administration – <strong>Laure Chapel, Pâquis Production</strong></p>"},"id":"f47a01e3-6729-4e4d-94c7-8b4d6e921ae5","isHidden":false,"type":"text"},{"content":{"image":["file://C6GqkTvEDPLvYXFX"],"isfullwidth":"true"},"id":"d8a5dcc9-7370-4003-a247-3c22143ada73","isHidden":false,"type":"image"}]
+
+----
+
+Galleryproject: 
+
+----
+
+Date: 2023-10-01
+
+----
+
+Tags: page://kJMSEG406sLzRD6q
+
+----
+
+Uuid: vW0LzCWkJPBh47cV
