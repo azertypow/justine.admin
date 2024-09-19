@@ -43,7 +43,31 @@ function getProjectBySlug(string $pageSlug, Kirby\Cms\App $kirby, Kirby\Cms\Site
         )
         ->data()
     ),
-		"galleryproject" =>        $project->galleryproject(),
+		"galleryproject" =>        array_values(
+      $project
+        ->galleryproject()
+        ->toBlocks()
+        ->map(
+          function ($item) {
+
+            if ($item->type() == 'image') {
+
+              $arrayImages = getImageArrayDataInPage($item->content()->image());
+
+              return array_merge(
+                $item->toArray(),
+                [
+                  'images' => $arrayImages ? array_values($arrayImages) : [],
+                ]
+              );
+            }
+
+            return $item->toArray();
+
+          }
+        )
+        ->data()
+    ),
 		"date" =>                  $project->date(),
 		"tags" =>                  array_map(function (string $themeSlug) use ($kirby) {
                                   $themePage = $kirby->page($themeSlug);
