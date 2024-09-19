@@ -64,7 +64,6 @@ columns:
         label: Galerie
         fieldsets:
           - image
-          - video
   - width: 1/3
     sections:
       meta:
