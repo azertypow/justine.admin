@@ -1,0 +1,28 @@
+blueprint: page
+
+name: liste de détails
+icon: image
+wysiwyg: true
+preview: fields
+
+fields:
+  name:
+    width: 1/2
+    label: Nom
+    type: writer
+    help: Colonne de gauche
+    marks:
+      - bold
+      - italic
+      - link
+    nodes: false
+  value:
+    width: 1/2
+    label: Valeur
+    type: writer
+    help: Colonne de droite
+    marks:
+      - bold
+      - italic
+      - link
+    nodes: false

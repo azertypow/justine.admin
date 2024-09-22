@@ -51,6 +51,8 @@ columns:
           - image
           - video
           - text
+          - text
+          - listOfDetails
           - type: heading
             extends: blocks/heading
             fields:
