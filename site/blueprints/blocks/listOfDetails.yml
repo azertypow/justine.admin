@@ -6,23 +6,25 @@ wysiwyg: true
 preview: fields
 
 fields:
-  name:
-    width: 1/2
-    label: Nom
-    type: writer
-    help: Colonne de gauche
-    marks:
-      - bold
-      - italic
-      - link
-    nodes: false
-  value:
-    width: 1/2
-    label: Valeur
-    type: writer
-    help: Colonne de droite
-    marks:
-      - bold
-      - italic
-      - link
-    nodes: false
+  listOfDetails:
+    label: Détails
+    type: structure
+    fields:
+      name:
+        label: Nom
+        type: writer
+        help: Colonne de gauche
+        marks:
+          - bold
+          - italic
+          - link
+        nodes: false
+      value:
+        label: Valeur
+        type: writer
+        help: Colonne de droite
+        marks:
+          - bold
+          - italic
+          - link
+        nodes: false
