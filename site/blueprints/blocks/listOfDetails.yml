@@ -15,7 +15,6 @@ fields:
         type: writer
         help: Colonne de gauche
         marks:
-          - bold
           - italic
           - link
         nodes: false
@@ -24,7 +23,6 @@ fields:
         type: writer
         help: Colonne de droite
         marks:
-          - bold
           - italic
           - link
         nodes: false
