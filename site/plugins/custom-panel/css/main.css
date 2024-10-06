@@ -1,4 +1,5 @@
-.k-block.k-block-type-quote.k-block-type-fields .k-field-header {
+.k-block.k-block-type-quote.k-block-type-fields .k-field-header,
+.k-block.k-block-type-imageGallery.k-block-type-fields .k-field-header {
   display: none;
 }
 
