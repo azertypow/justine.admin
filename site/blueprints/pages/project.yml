@@ -27,7 +27,7 @@ columns:
 
       cover:
         type: files
-        required: false
+        required: true
         label: Cover
         help: Image de couverture
         extends: files/imageOnlyOne
