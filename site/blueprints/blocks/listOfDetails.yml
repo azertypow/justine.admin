@@ -1,7 +1,7 @@
 blueprint: page
 
 name: liste de détails
-icon: image
+icon: text
 wysiwyg: true
 preview: fields
 
