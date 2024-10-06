@@ -52,6 +52,7 @@ columns:
           - video
           - text
           - quote
+          - imageGallery
           - listOfDetails
           - type: heading
             extends: blocks/heading
