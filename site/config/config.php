@@ -41,5 +41,8 @@ return [
             }
         ]
 
+    ],
+    'panel' => [
+        'css' => 'site/plugins/custom-panel/css/main.css'
     ]
 ];
