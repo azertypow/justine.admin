@@ -25,7 +25,7 @@ function getProjectBySlug(string $pageSlug, Kirby\Cms\App $kirby, Kirby\Cms\Site
         ->map(
           function ($item) {
 
-            if ($item->type() == 'image') {
+            if ($item->type() == 'image' | $item->type() == 'imageGallery') {
 
               $arrayImages = getImageArrayDataInPage($item->content()->image());
 
