@@ -1,0 +1,33 @@
+Title: La panne
+
+----
+
+Subtitle: Studio d'Action Théâtrale
+
+----
+
+Cover: - file://ycOdI1bfIJ8rJmpq
+
+----
+
+Introduction: <p>On s’empiffre à l’enseigne Dürrenmatt mais il arrive que l’addition soit douloureuse. Surtout quand vous êtes le dindon d’une farce qui brasse allègrement les notions de justice, de vérité et de genre.</p>
+
+----
+
+Htmlcontent: [{"content":{"level":"h3","text":"Vous reprendrez bien un peu de culpabilité?"},"id":"ce7b4839-ca7a-4e29-bbf7-59f40af979a1","isHidden":false,"type":"heading"},{"content":{"text":"<p>L’auteur de La Panne aimait la ripaille. Il se trouve que Gabriel Alvarez aussi, qui concocte régulièrement d’étonnantes agapes scéniques dont il a le secret. Un conducteur qui s’égare, une panne, un dîner qui tourne au procès, il n’en faut pas plus pour faire grimper la tension. Le reste est affaire de jeu, qui est un jeu de dupes si l’on considère que le droit relève d’une certaine fiction. Quoi qu’il en soit, deux rituels se confrontent ici, l’un judiciaire, l’autre gastronomique. Les bouches accusent, tordent les consciences, déchirent les viandes, et ça fait des grands flchss, comme chantait Brel. En prenant place à la table de ce jubilatoire huis-clos, entre fromage et dessert, justice et vérité, on acceptera de ne pas toujours se sentir bien dans son assiette.</p>"},"id":"a96b2ef2-1025-4511-bde8-c76516082f6a","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Représentations au Théâtre du Galpon"},"id":"f30d0261-dca5-4571-b586-ecff6097ea92","isHidden":false,"type":"heading"},{"content":{"text":"<p>Représentations du <strong>8 au 20 octobre</strong></p><p>plus d'infos et réservations : <a href=\"https://galpon.ch/spectacle/la-panne\">https://galpon.ch/spectacle/la-panne</a></p><p></p>"},"id":"a63f1f6a-e005-47ce-a93d-d4fc5a23e802","isHidden":false,"type":"text"},{"content":{"url":"","credit":"","title":"","isfullwidth":"false"},"id":"5e408bab-be49-4cb3-bb19-80dea2108452","isHidden":false,"type":"video"},{"content":{"level":"h3","text":"Crédits"},"id":"33c9a581-f046-4335-8284-a7861897f174","isHidden":false,"type":"heading"},{"content":{"listofdetails":[{"name":"<p>Direction Artistique</p>","value":"<p>Gabriel Alvarez</p>"},{"name":"<p>Jeu</p>","value":"<p>Clara Brancorsini, Albeiro Pérez, Andres Moure, Omaira Rodriguez, Justine Ruchat, Hèctor Salvador Vicente</p>"},{"name":"<p>Rythmes</p>","value":"<p>Ulysses Alvarez </p>"},{"name":"<p>Intervention plastique et culinaire</p>","value":"<p>Cyril Vandenbeusch</p>"},{"name":"<p>Scénographie</p>","value":"<p>Gordon Higginson</p>"},{"name":"<p>Réalisation scénographie</p>","value":"<p>Alex Gerenton</p>"},{"name":"<p>Décor</p>","value":"<p>Delia Meyer</p>"},{"name":"<p>Costumes</p>","value":"<p>Aline Courvoisier</p>"},{"name":"<p>Éclairages</p>","value":"<p>Francesco Dell’Elba</p>"},{"name":"<p>Administration</p>","value":"<p>Laure Chapel – Pâquis Production</p>"}]},"id":"f081fee3-2378-4d01-ab24-26b34c89ca4c","isHidden":false,"type":"listOfDetails"}]
+
+----
+
+Galleryproject: 
+
+----
+
+Date: 2024-10-01
+
+----
+
+Tags: page://kJMSEG406sLzRD6q
+
+----
+
+Uuid: 2SMwiGGv3HFUDSen

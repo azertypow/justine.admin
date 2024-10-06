@@ -1,0 +1,25 @@
+Title: 
+
+----
+
+Alt: 
+
+----
+
+Textcolor: white
+
+----
+
+Showtitle: false
+
+----
+
+Uuid: f2QS9BUNjWSIvLIr
+
+----
+
+Template: image
+
+----
+
+Focus: 46.9% 47.8%
