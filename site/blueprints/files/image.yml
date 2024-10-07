@@ -13,7 +13,7 @@ columns:
       meta:
         type: fields
         fields:
-          photoCredits:
+          photoCredit:
             label: crédit photo
             type: text
             width: 1/2
