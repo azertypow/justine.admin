@@ -1,9 +1,0 @@
-Showtitle: false
-
-----
-
-Uuid: PVJJaRpViQ57Bd7F
-
-----
-
-Template: image

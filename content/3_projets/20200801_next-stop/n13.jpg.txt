@@ -1,9 +1,0 @@
-Showtitle: false
-
-----
-
-Uuid: X0J2p0fRTzzLXXDP
-
-----
-
-Template: blocks/image

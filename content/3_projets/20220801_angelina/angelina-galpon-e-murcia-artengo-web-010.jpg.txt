@@ -1,9 +1,0 @@
-Showtitle: false
-
-----
-
-Uuid: 9euzs2JbFkTkOHN8
-
-----
-
-Template: image
