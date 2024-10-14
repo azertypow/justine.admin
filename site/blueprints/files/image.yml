@@ -21,3 +21,12 @@ columns:
             label: alt
             type: text
             width: 1/2
+          textColor:
+            label: Couleur du texte sur l'image
+            type: radio
+            options:
+              - white
+              - black
+            default: 1
+            required: true
+            width: 1/3

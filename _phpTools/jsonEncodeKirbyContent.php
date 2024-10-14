@@ -23,6 +23,7 @@ function getJsonEncodeImageData(Cms\File $file): array
         'alt'           => $file->alt()->value(),
         'link'          => $file->link()->value(),
         'photoCredit'   => $file->photoCredit()->value(),
+        'textColor'     => $file->textColor()->value(),
         'url'           => $file->url(),
         'mediaUrl'      => $file->mediaUrl(),
         'width'         => $file->width(),
