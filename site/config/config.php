@@ -39,8 +39,35 @@ return [
                     getProjectBySlug($pageSlug, kirby(), site())
                 );
             }
-        ]
+        ],
+        [
+            'pattern' => '/project-by-slug/(:any)',
+            'action' => function($pageSlug) {
+                include_once 'site/templates/getProjectByUid.php';
 
+                header("Access-Control-Allow-Origin: *");
+
+                return \Kirby\Cms\Response::json(
+                    getProjectBySlug($pageSlug, kirby(), site())
+                );
+            }
+        ],
+        [
+            'pattern' => '/about',
+            'action'  => function () {
+                header("Access-Control-Allow-Origin: *");
+                include_once 'site/templates/get.about.php';
+                return getAbout(kirby(), site());
+            }
+        ],
+        [
+            'pattern' => '/contact',
+            'action'  => function () {
+                header("Access-Control-Allow-Origin: *");
+                include_once 'site/templates/get.contact.php';
+                return getContact(kirby(), site());
+            }
+        ]
     ],
     'panel' => [
         'css' => 'site/plugins/custom-panel/css/main.css'
