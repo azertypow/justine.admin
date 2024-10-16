@@ -7,7 +7,7 @@ icon: ☎️
 options:
   changeSlug: false
   delete: false
-  changeTitle: true
+  changeTitle: false
   sort: false
   changeStatus: false
   duplicate: false
@@ -17,6 +17,9 @@ tabs:
     icon: text
     label: À Propos
     fields:
+      aboutTitle:
+        label: Titre page à propos
+        type: text
       textAbout:
         type: blocks
         fieldsets:

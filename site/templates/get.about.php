@@ -12,6 +12,7 @@ function getAbout(Kirby\Cms\App $kirby, Kirby\Cms\Site $site): array
   return [
     'error' => null,
     'data' => [
+      'aboutTitle' => $contactPage->aboutTitle()->value(),
       'textabout' => $contactPage->textabout()->value(),
     ],
   ];
