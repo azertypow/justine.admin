@@ -36,6 +36,9 @@ tabs:
     icon: map
     label: Contact
     fields:
+      contactTitle:
+        label: Titre page contact
+        type: text
       textContact:
         label: Texte
         type: writer

@@ -14,6 +14,7 @@ function getContact(Kirby\Cms\App $kirby, Kirby\Cms\Site $site): array
   return [
     'error' => null,
     'data' => [
+      'contactTitle' => $contactPage->contactTitle()->value(),
       'textcontact' => $contactPage->textcontact()->value(),
       'mapImage' => $contactPage->mapImage()->toFile() ? getJsonEncodeImageData($contactPage->mapImage()->toFile()) : null,
       'mapLien' => $contactPage->mapLien()->value()
