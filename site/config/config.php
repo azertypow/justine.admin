@@ -17,6 +17,18 @@ return [
             },
         ],
         [
+            'pattern' => '/text-intro',
+            'action' => function() {
+                include_once 'site/templates/getTextIntro.php';
+
+                header("Access-Control-Allow-Origin: *");
+
+                return \Kirby\Cms\Response::json(
+                    getTextIntro(kirby(), site())
+                );
+            }
+        ],
+        [
             'pattern' => '/site-info',
             'action' => function() {
                 include_once 'site/templates/getSiteInfo.php';

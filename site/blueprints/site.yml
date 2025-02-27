@@ -36,4 +36,13 @@ columns:
         templates: projects
         layout: cards
         size: huge
+  - width: 3/8
+    fields:
+      text_intro:
+        label: texte d'introduction
+        type: writer
+        marks:
+          italic
+        nodes: false
+        inline: true
 
