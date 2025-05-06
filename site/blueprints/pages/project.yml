@@ -24,6 +24,16 @@ columns:
         type: text
         required: false
         label: Sous-titre
+        width: 3/4
+
+      hidde_in_home:
+        type: toggle
+        label: status d'affichage sur la home
+        width: 1/4
+        text:
+          afficher sur la home
+          ne pas afficher sur la home
+
 
       cover:
         type: files
