@@ -50,7 +50,6 @@ columns:
         type: files
         max: 1
         multiple: false
-        required: true
         layout: cards
         image:
           cover: true
