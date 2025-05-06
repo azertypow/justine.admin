@@ -7,8 +7,12 @@ include_once '_phpTools/jsonEncodeKirbyContent.php';
 
 function getTextIntro(Kirby\Cms\App $kirby, Kirby\Cms\Site $site): bool|string
 {
+
+  $arrayImages = getImageArrayDataInPage($site->content()->cover_intro());
+  $arrayImages = $arrayImages ? array_values( $arrayImages ) : [];
+
   return json_encode([
     'textIntro' => $site->content()->text_intro()->value(),
-    'cover_intro' => array_values( getImageArrayDataInPage($site->content()->cover_intro()) ),
+    'cover_intro' => $arrayImages,
   ]);
 }
