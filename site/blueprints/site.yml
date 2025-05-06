@@ -45,4 +45,15 @@ columns:
           italic
         nodes: false
         inline: true
-
+      cover_intro:
+        label: Image d'introduction
+        type: files
+        max: 1
+        multiple: false
+        required: true
+        layout: cards
+        image:
+          cover: true
+          ratio: 3/2
+        uploads:
+          template: image

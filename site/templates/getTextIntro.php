@@ -9,5 +9,6 @@ function getTextIntro(Kirby\Cms\App $kirby, Kirby\Cms\Site $site): bool|string
 {
   return json_encode([
     'textIntro' => $site->content()->text_intro()->value(),
+    'cover_intro' => array_values( getImageArrayDataInPage($site->content()->cover_intro()) ),
   ]);
 }
