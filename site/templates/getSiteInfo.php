@@ -24,6 +24,7 @@ function getSiteInfo(Kirby\Cms\App $kirby, Kirby\Cms\Site $site): bool|string
         'cover' => array_values(getImageArrayDataInPage($projectItem->content()->cover()) ?? []),
         'date' => $projectItem->content()->date()->value(),
         'dateEnd' => $projectItem->content()->dateEnd()->value(),
+        'with_dateEnd' => $projectItem->content()->with_dateEnd()->value() === 'true' || 'false',
         'hidde_in_home' => $projectItem->content()->hidde_in_home()->value() === 'true' || false,
         'tags' => array_map(function (string $themeSlug) use ($kirby) {
           $themePage = $kirby->page($themeSlug);
