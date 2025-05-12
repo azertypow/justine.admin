@@ -87,13 +87,11 @@ columns:
             label: Date de début
             type: date
             default: now
-            display: JJ-MM-YYYY
           dateEnd:
             required: false
             label: Date de fin
             type: date
             default: now
-            display: JJ-MM-YYYY
           tags:
             required: true
             label: tags
