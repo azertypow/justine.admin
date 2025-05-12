@@ -87,10 +87,19 @@ columns:
             label: Date de début
             type: date
             default: now
+          with_dateEnd:
+            label: Avec une date de fin?
+            type: toggle
+            default: false
+            text:
+              - 'Sans date de fin'
+              - 'Avec date de fin'
           dateEnd:
             required: false
             label: Date de fin
             type: date
+            when:
+              with_dateEnd: true
           tags:
             required: true
             label: tags
